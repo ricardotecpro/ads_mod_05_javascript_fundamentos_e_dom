@@ -1,5 +1,6 @@
 # ![curso logo](https://raw.githubusercontent.com/curso/bds-assets/main/ds/curso-logo-small.png) Curso Nivelamento JavaScript
->  Aprenda de forma rápida os principais fundamentos de JavaScript para se preparar para trabalhar com frameworks front end
+
+>  Aprenda de forma rápida os principais fundamentos de JavaScript para se preparar para trabalhar com frameworks front-end
 
 ## Realização
 [curso - Escola de programação](https://curso.com.br)
